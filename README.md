@@ -1,4 +1,4 @@
-# my mysterious project
+# My mysterious project
 
 1.Server is Node.js 4.x
   https://nodejs.org/ko/
